@@ -1,4 +1,4 @@
-# Micro Taller Flutter
+# Microtaller Flutter
 
 * El contenido de este repositorio es académico. Para su construcción se ha usado fuentes de Internet (a nivel conceptual y código) como:
 
